@@ -12,9 +12,12 @@
  # Considerations 
  - Reinforcement Learning is tricky,so the expectation is to come up with sample flow and full-fledged implementation will be done by team later
  
- #Data volume
- -None. Sample data is hard coded in the program
- Additional information
- -NA
- Business benefits
- Up to 15% fuelcost can be saved by taking optimal path
+ # Data volume
+ - None. Sample data is hard coded in the program
+ 
+  # Additional information
+ - NA
+ 
+  # Business benefits
+ 
+ - Up to 15% fuelcost can be saved by taking optimal path
